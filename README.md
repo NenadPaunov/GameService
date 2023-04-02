@@ -1,10 +1,13 @@
-# GameService
+GameService
+GameService is a microservice that provides functionality for managing games. It allows users to create, read, update and delete games, as well as view a list of all available games.
 
-GameService is a microservice that handles game-related operations, such as creating new games, retrieving game information, and updating game details. 
-The service is built using Java 17/Spring Boot 3 and communicates with other microservices in the system to provide a seamless gaming experience for users.
+Swagger documentation
+GameService provides Swagger documentation, which can be accessed by navigating to the following URL: http://localhost:8080/playerservice/swagger-ui/index.html#/
 
-One of the key features of the GameService is the integration of Swagger, 
-which provides a user-friendly interface for exploring and testing the various endpoints offered by the service. 
-With Swagger, developers and testers can easily experiment with the API, without having to write any code or use complex tools.
+Technologies used
+GameService is built using the following technologies:
 
-It can be accesed at: http://localhost:8081/gameservice/swagger-ui/index.html#/
+Java 17
+Spring Boot 3
+Embeded H2
+Swagger
