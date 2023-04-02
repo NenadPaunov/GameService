@@ -1,4 +1,3 @@
-GameService
 GameService is a microservice that provides functionality for managing games. It allows users to create, read, update and delete games, as well as view a list of all available games.
 
 Swagger documentation
